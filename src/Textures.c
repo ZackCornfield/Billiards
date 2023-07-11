@@ -1,5 +1,5 @@
 #ifdef _WIN32
-#include <gl/freeglut.h>        // For Windows
+#include <GL/freeglut.h>        // For Windows
 #ifdef _WIN64
 // define something for Windows (64-bit only)
 #endif

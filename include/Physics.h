@@ -11,7 +11,7 @@
 
 #ifdef _WIN32
 	//define something for Windows (32-bit and 64-bit, this part is common)
-	#include <gl/freeglut.h>		// For windows
+	#include <GL/freeglut.h>		// For windows
 	#ifdef _WIN64
 		//define something for Windows (64-bit only)
 	#endif

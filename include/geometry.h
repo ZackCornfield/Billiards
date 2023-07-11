@@ -1,7 +1,7 @@
 #ifndef GEOMETRY_H_INCLUDED
 #define GEOMETRY_H_INCLUDED
 
-#include <gl/freeglut.h>
+#include <GL/freeglut.h>
 
 typedef GLfloat Point2[2];
 typedef GLfloat Point3[3];
