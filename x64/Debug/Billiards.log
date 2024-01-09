@@ -1,0 +1,4 @@
+﻿  Textures.c
+C:\Users\Zack Cornfield\Desktop\Local Uni Files\Coding\Personal Projects\OpenGL\Billiards_VisualStudio\src\Textures.c(28,73): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\Zack Cornfield\Desktop\Local Uni Files\Coding\Personal Projects\OpenGL\Billiards_VisualStudio\src\Textures.c(28,73): warning C4024: 'stbi_load': different types for formal and actual parameter 4
+  Billiards.vcxproj -> C:\Users\Zack Cornfield\Desktop\Local Uni Files\Coding\Personal Projects\OpenGL\Billiards_VisualStudio\x64\Debug\Billiards.exe

@@ -19,7 +19,7 @@
 
 void LoadTextures(const char filenames[][20], int* widths, int* heights, unsigned char* imageData[])
 {
-    int ImageChannels;
+    int ImageChannels = 0;
 
     for (int i = 0; i < NUM_TEXTURES; i++)
     {

@@ -1,9 +1,6 @@
 //Ball.h - Implementation file
 
 #include "Ball.h"
-#ifndef M_PI
-    const double M_PI = 3.14159265358979323846;
-#endif
 
 void InitialiseBalls(BallData balls[], int size, Point3 positions[], char textures[][20], float mass[], Vector3 forces[], int numberOfForces)
 {
