@@ -10,7 +10,7 @@ To run the Billiards Game, follow these steps:
    - You can download the Executable Folder directly from the project's GitHub repository.
 
 2. **Run the exe file in the folder**:
-  - Double click on the file to run
+   - Double click on the file to run
 
 3. **Follow the on-screen instructions**:
    - Once the program is running, follow the prompts and enjoy the game
