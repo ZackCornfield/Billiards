@@ -12,7 +12,7 @@ To run the Billiards Game, follow these steps:
 2. **Run the exe file in the folder**:
    - Double click on the file to run
 
-3. **Follow the on-screen instructions**:
+4. **Follow the on-screen instructions**:
    - Once the program is running, follow the prompts and enjoy the game
 
 
